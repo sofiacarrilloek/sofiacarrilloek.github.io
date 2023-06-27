@@ -64,6 +64,13 @@ h1 {
   
 }
 
+#btn_masproyectos:active{
+  background-color: #9C27B0;
+  border-color: #9C27B0;
+  color: #f4e9f6;
+  
+}
+
 .texto-negro {
   color: black;
 }
